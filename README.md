@@ -12,13 +12,14 @@
 - 💡 Experiência em logística e processos de otimização no varejo.  
 - 📚 Me aprofundando em **modelos de negócios** para entender como as empresas funcionam e identificar suas reais dores.  
 
+Atualmente, estou ajustando meu perfil e, em breve, estarei compartilhando todos os meus projetos por aqui. Fique à vontade para acompanhar meu progresso!
+
 ---
 
 ## 📈 Habilidades Técnicas
 - **Ferramentas:** Power BI, Excel (intermediário/avançado), Metabase.  
 - **Linguagens:** Python, SQL.  
 - **Outras Habilidades:** Análise de dados, storytelling e resolução de problemas.  
-
 
 ---
 
